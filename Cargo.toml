@@ -1,0 +1,18 @@
+[package]
+name = "plan-a"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[lib]
+name = "plan_a"
+path = "rust/src/lib.rs"
+#crate-type = ["rlib"]
+#crate-type = ["cdylib"]  # for pyO3
+crate-type = ["lib"]
+
+[[bin]]
+name = "main"
+path = "rust/src/main.rs"
