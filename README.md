@@ -26,6 +26,7 @@ First I need to understand personal cashflows.
     * Taxi
     * Shopping
     * Subscriptions
+    * home
 4. Do basic analytics on how much I'm spending on each category, month by month
 5. Set Goals
     * Long term savings
