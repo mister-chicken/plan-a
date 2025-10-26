@@ -27,4 +27,8 @@ target
 data/*
 *.egg-info/
 *.DS_Store
-__pycache__/
+temp/
+**/__pycache__/
+*.scratch.*
+scratch.*
+*.ipynb
